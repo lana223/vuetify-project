@@ -1,5 +1,5 @@
 <template>
-   <v-parallax class="my-5" height="500px" src="">
+   <v-parallax class="my-5" height="500px" src="../../shop.jpg">
     <div class="d-flex flex-column fill-height justify-center align-center text-black">
       <h1 class="text-h2 font-weight-bold mb-4">
         Welcome To Our Online Shop
